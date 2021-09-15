@@ -978,6 +978,7 @@ img {
 .blog-slider__text {
   color: var(--text-color);
   margin-bottom: 30px;
+  padding: 10px;
   line-height: 1.5em;
 }
 .blog-slider__button {
