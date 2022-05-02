@@ -66,7 +66,7 @@ navLink.forEach(n => n.addEventListener('click', linkAction))
 
 
 new Typewriter('#typewriter', {
-  strings: ['Gurpreet Multani', 'Systems Design Engineer', 'Full-Stack Developer', 'UX/UI Designer', ''],
+  strings: ['Gurpreet Multani', 'Systems Design Engineer', 'Software Engineer', 'UX/UI Designer', ''],
   autoStart: true,
   loop: true,
   cursor: "|"
