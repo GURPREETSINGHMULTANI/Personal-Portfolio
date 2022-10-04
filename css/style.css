@@ -524,6 +524,11 @@ img {
   color: var(--text-color);
 }
 
+div .about__data .about__description {
+  font-size: var(--h3-font-size);
+  font-weight: var(--font-medium);
+}
+
 .about__info {
   display: flex;
   justify-content: space-evenly;
